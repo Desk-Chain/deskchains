@@ -1,3 +1,6 @@
 [submodule "open-runtime-module-library"]
 	path = open-runtime-module-library
 	url = https://github.com/open-web3-stack/open-runtime-module-library.git
+[submodule "ecosystem-modules/stable-asset"]
+	path = ecosystem-modules/stable-asset
+	url = https://github.com/nutsfinance/stable-asset.git
