@@ -1,0 +1,8 @@
+[package]
+name = "module-evm-utiltity"
+version = "1.6.0"
+authors = ["Deskchain Developers"]
+edition = "2018"
+
+[dependencies]
+sha3 = { version = "0.9.1" }

@@ -6,4 +6,9 @@ members = [
     'node',
     'pallets/template',
     'runtime/deskchains',
+
+    "modules/*",
+	"modules/evm-utiltity/macro",
+	# "inspect",
+	"primitives",
 ]
