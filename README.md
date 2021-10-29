@@ -50,5 +50,5 @@ RUST_BACKTRACE=1 ./target/release/node-template -ldebug --dev
 Once the node template is running locally, you can connect it with **Polkadot-JS Apps** front-end
 to interact with your chain. [Click
 here](https://polkadot.js.org/apps/#/explorer?rpc=ws://localhost:9944) connecting the Apps to your
-local node template.
+local node.
 
