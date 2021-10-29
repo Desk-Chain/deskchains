@@ -1,6 +1,6 @@
 # DESKCHAINS
 
-A fresh FRAME-based [Substrate](https://www.substrate.io/) node, ready for hacking :rocket:
+Ready for hacking :rocket:
 
 ## Getting Started
 
