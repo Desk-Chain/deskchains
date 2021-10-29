@@ -4,17 +4,6 @@ A fresh FRAME-based [Substrate](https://www.substrate.io/) node, ready for hacki
 
 ## Getting Started
 
-Follow the steps below to get started with the Node Template, or get it up and running right from
-your browser in just a few clicks using [Playground](https://playground.substrate.dev/)
-:hammer_and_wrench:
-
-### Using Nix
-
-Install [nix](https://nixos.org/) and optionally [direnv](https://github.com/direnv/direnv) and
-[lorri](https://github.com/target/lorri) for a fully plug and play experience for setting up the
-development environment. To get all the correct dependencies activate direnv `direnv allow` and
-lorri `lorri shell`.
-
 ### Rust Setup
 
 First, complete the [basic Rust setup instructions](./doc/rust-setup.md).
@@ -35,21 +24,6 @@ without launching it:
 ```sh
 cargo build --release
 ```
-
-### Embedded Docs
-
-Once the project has been built, the following command can be used to explore all parameters and
-subcommands:
-
-```sh
-./target/release/node-template -h
-```
-
-## Run
-
-The provided `cargo run` command will launch a temporary node and its state will be discarded after
-you terminate the process. After the project has been built, there are other ways to launch the
-node.
 
 ### Single-Node Development Chain
 
